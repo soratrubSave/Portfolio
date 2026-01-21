@@ -24,14 +24,13 @@ const skills = {
     { name: "Python", icon: SiPython },
     { name: "PostgreSQL", icon: SiPostgresql },
     { name: "MongoDB", icon: SiMongodb },
+    { name: "SQL", icon: Database },
   ],
   tools: [
     { name: "Git / GitHub", icon: SiGit },
     { name: "Docker", icon: SiDocker },
     { name: "Vercel", icon: SiVercel },
     { name: "Render", icon: SiRender },
-    { name: "AWS", icon: SiAmazonwebservices },
-    { name: "SQL", icon: Database },
   ],
 }
 
